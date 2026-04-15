@@ -72,6 +72,12 @@ footer{
 text-align: center;
     margin-top: 350px;
     width: 100%;
+    a{
+      color: rgb(252, 223, 179);
+    }
+    a:hover{
+        color: rgb(255, 0, 0);
+    }
 }
 
 

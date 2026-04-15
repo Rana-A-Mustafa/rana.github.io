@@ -112,9 +112,16 @@ input[type="text"]{
     width: 70%;
 }
 footer{
-    
+  
     text-align: center;
-    
-
+    margin-top: 50px;
     width: 100%;
+
+     a{
+      color: rgb(194, 24, 250);
+    }
+    a:hover{
+        font-size: 20px;
+        color: rgb(250, 24, 24);
+    }
 }
